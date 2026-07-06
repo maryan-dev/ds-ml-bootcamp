@@ -1,7 +1,7 @@
 # Assignment Five — Part A: Classification Theory
 
 **Author:** Ali Omar Abdi  
-**Course:** DS-ML Bootcamp
+**Course:** DS-ML Bootcamp.       
 **Due:** Sunday, July 5, 2026 — 12:00 PM (Africa/Mogadishu / EAT)
 
 ---
@@ -121,5 +121,5 @@ Among the models tested, **Random Forest** achieved the best overall performance
 
 4. *Loan Default Prediction Using Machine Learning.* (2023). arXiv:2301.08702.
 
-*Submitted for DS-ML Bootcamp — Assignment Five*
+*Submitted for DS-ML Bootcamp — Assignment Five*        
 *Due: Sunday, July 5, 2026*
